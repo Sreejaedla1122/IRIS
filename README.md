@@ -65,4 +65,3 @@
 4. Open iris_classification_2.ipynb and run it's cells.
 
 
-##### I wrote a research paper in this project found [here](https://www.isroset.org/pdf_paper_view.php?paper_id=1775&4-IJSRMS-03115.pdf)
